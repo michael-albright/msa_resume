@@ -2,7 +2,7 @@
   "selectedTemplate": 2,
   "headings": {
     "work": "Work Experience",
-    "skills": "Tools, Technologies, and Frameworks",
+    "skills": "Tools, Technologies, & Frameworks",
     "projects": "",
     "education": "Education",
     "awards": "Certificates"
@@ -35,21 +35,21 @@
     {
       "highlights": [
         "Provided production support for a multi-component Java-Spring Boot Web API running on AWS.",
-        "Migrated pre-existing on-prem code to AWS, utilizing Jenkins, UCD, and Nexus for seamless CICD integrations.",
-        "Collaborated to break off microservices from the monolithic on-prem code.",
-        "Created and oversaw production documentation and deployments quarterly (or more).",
-        "Designed, developed, tested, and maintained many new and existing APIs.",
-        "Collaborated to develop and maintain Angular UI and it's CICD integrations.",
-        "Automated a Data Batch Processor utilizing AWS EventBridge, StepFunctions, & Lambda to streamline data changes in Oracle and Postgres.",
-        "Integrated Lambda Layers to centralize certification(s) and dependency management among all Lambdas.",
-        "Implemented and maintained industry standard scanning tools (SAST, SCA, DAST) for vulnerability protection.",
-        "Integrated global standard logging and exception handling across all Java components.",
-        "Led efforts in security analyzation and prevention against 3rd party dependencies.",
-        "Collaborated to integrate automated, one-touch failover for all AWS components using Route53, Lambda, and Enterprise Integrations.",
-        "Provided daily feedback, progress, and design input with team-leads and product owners.",
-        "Heavily involved in collaboration on Confluence and team Agile processes, working with JIRA for sprint planning, ticket creation, and team coordination.",
+        "Migrated pre-existing on-prem code to AWS, utilizing Jenkins, UCD, & Nexus for seamless CICD integrations.",
+        "Collaborated on microservice design & implementation breaking up our migrated monolithic code.",
+        "Created & oversaw production documentation & deployments quarterly (or more).",
+        "Designed, developed, tested, & maintained many new & existing APIs.",
+        "Collaborated to develop & maintain Angular UI & it's CICD integrations.",
+        "Automated a Data Batch Processor utilizing AWS EventBridge, StepFunctions, & Lambda to streamline data changes in RDS.",
+        "Integrated Lambda Layers to centralize certification(s) & dependency management among all Lambdas.",
+        "Implemented & maintained industry standard scanning tools (SAST, SCA, DAST) for vulnerability protection.",
+        "Integrated global standard logging & exception handling across all Java components.",
+        "Led efforts in security analyzation & prevention against 3rd party dependencies.",
+        "Collaborated to integrate automated, one-touch failover for all AWS components using Route53, Lambda, & Enterprise Integrations.",
+        "Provided daily feedback, progress, & design input with team-leads & product owners.",
+        "Heavily involved in team Agile processes; Collaboration on Confluence, sprint-planning in JIRA, ticket creation, & team coordination.",
         "Developed training documentation for new developers/testers to streamline the onboarding process of our application.",
-        "Onboarded and integrated User to Service and Service to Service relationships behind Apigee using OAuth2, JWT, and an adherence to Enterprise SSL/TLS Standards"
+        "Onboarded & integrated User to Service & Service to Service relationships behind Apigee using OAuth2, JWT, & an adherence to Enterprise SSL/TLS Standards"
       ],
       "company": "Hexaware Technologies",
       "position": "Software Engineer",
@@ -59,9 +59,9 @@
     },
     {
       "highlights": [
-        "Instructed students on Java full-stack development, covering core Java OOP principles, Spring Framework, and integrating front-end UI with backend services for a seamless application architecture.",
-        "Led hands-on workshops on front-end development using Angular, guiding through module creation, event binding, and routing.",
-        "Taught best practices in version control using Git and Bitbucket for managing repositories and collaborating effectively."
+        "Instructed students on Java full-stack development, covering core Java OOP principles, Spring Framework, & integrating front-end UI with backend services for a seamless application architecture.",
+        "Led hands-on workshops on front-end development using Angular, guiding through module creation, event binding, & routing.",
+        "Taught best practices in version control using Git & Bitbucket for managing repositories & collaborating effectively."
       ],
       "company": "Tech Talent & Strategy",
       "position": "Java Full Stack Teacher Assistant",
@@ -71,13 +71,14 @@
     },
     {
       "highlights": [
-        "Build, Develop, and Test RESTful APIs.",
-        "Integrated test sets in JMeter for one touch automation testing of series of APIs.",
-        "Collaborated on a Selenium Suite of tests for daily automated testing of our Web API."
+        "Built, Developed, & Tested RESTful APIs.",
+        "Integrated a one touch automated testing suite in Jmeter to test a series of APIs.",
+        "Created & maintained a configuration driven test scenario suite for common API call types.",
+        "Collaborated on creating a Selenium Suite of tests for daily automated testing of Web APIs."
       ],
       "company": "GenSpark",
       "position": "Java Full Stack Developer",
-      "startDate": "Jan 2022",
+      "startDate": "Dec 2021",
       "endDate": "June 2022",
       "location": "Alpharetta, GA (remote)"
     }
@@ -87,15 +88,18 @@
       "level": "",
       "keywords": [
         "Java",
-        "Python",
-        "JavaScript/TypeScript",
+        "SQL",
+        "Js/Ts",
         "Bootstrap",
         "HTML/CSS",
+        "Maven",
+        "Gradle",
         "Spring Boot",
-        "React.js",
+        "Hibernate/JPA",
+        "React",
         "Angular"
       ],
-      "name": "Dev Skills"
+      "name": "Stack"
     },
     {
       "keywords": [
@@ -104,37 +108,42 @@
         "UCD",
         "Nexus",
         "Nginx",
-        "Event-driven Architecture",
-        "Microservices Architecture"
+        "Git",
+        "Confluence",
+        "Agile",
+        "JIRA",
+        "Terraform"
       ],
       "name": "DevOps/CICD"
     },
     {
       "keywords": [
-        "CloudWatch",
         "Postman",
         "Dynatrace",
         "Selenium",
         "SauceLabs",
         "JMeter",
         "TestNG",
-        "JUnit"
+        "JUnit",
+        "Swagger",
+        "SonarQube"
       ],
       "name": "Monitor/Test"
     },
     {
       "keywords": [
-        "AWS Infrastructure Solutions",
-        "(ECS",
-        "S3",
-        "RDS",
-        "DynamoDB",
+        "ECS/ECR",
+        "RDS/S3/Dynamo",
         "Lambda",
-        "CloudFormation",
+        "CFT",
         "Route53",
-        "etc...)"
+        "SNS",
+        "StepFunctions",
+        "SSM",
+        "SQS",
+        "EventBridge"
       ],
-      "name": "Cloud Dev"
+      "name": "AWS"
     },
     {
       "keywords": [
@@ -147,6 +156,18 @@
         "SOAP"
       ],
       "name": "Security"
+    },
+    {
+      "keywords": [
+        "Microservices",
+        "RESTful Web Services",
+        "OOP",
+        "Responsive Web Design",
+        "ORM",
+        "Event Driven",
+        "Serverless"
+      ],
+      "name": "Architectures"
     }
   ],
   "projects": [
