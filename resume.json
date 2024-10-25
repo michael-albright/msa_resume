@@ -1,0 +1,174 @@
+{
+  "selectedTemplate": 2,
+  "headings": {
+    "work": "Work Experience",
+    "skills": "Tools, Technologies, and Frameworks",
+    "projects": "",
+    "education": "Education",
+    "awards": "Certificates"
+  },
+  "basics": {
+    "name": "Michael Albright",
+    "email": "msalbrig@yahoo.com",
+    "phone": "7605864510",
+    "location": {
+      "address": "Atlanta, GA"
+    }
+  },
+  "education": [
+    {
+      "institution": "Tech Talent & Strategy",
+      "location": "Atlanta, GA",
+      "studyType": "Java Full Stack Bootcamp",
+      "startDate": "Feb 2021",
+      "endDate": "April 2021"
+    },
+    {
+      "location": "Bloomington, IN",
+      "studyType": "Associates",
+      "endDate": "May 2014",
+      "institution": "Ivy Tech Community College",
+      "area": "Culinary Arts",
+      "startDate": "Aug 2011"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Development and support for a multi-component Java-based application built using Spring Boot, deployed to AWS, and secured with industry-standard scanning tools (SAST, SCA, DAST).",
+        "Migrated application components from on-prem to AWS, utilizing Jenkins pipelines, Urban Code Deploy, and Nexus for continuous integration and deployment.",
+        "Developed and maintained RESTful APIs using Spring Boot, integrated with Angular UI, and deployed as Docker containers to ECS.",
+        "Manage AWS Infrastructure including, but not limited to Security Groups, Parameter Store, Secrets Manager, and Route53 ensuring secure, scalable deployment and access control.",
+        "Manage a batch processing system using AWS EventBridge, Step Functions, and Lambda to automate data processing tasks between Oracle and Postgres databases.",
+        "Integrated Lambda Layers to handle certification access and dependency management.",
+        "Oversaw application monitoring and alerting with CloudWatch, setting up alarms and logs for all components, and integrated with automated testing tools like Selenium, SauceLabs, and JMeter.",
+        "Led efforts in security analyzation and prevention along 3rd party dependency and vulnerability remediation.",
+        "Collaborated to integrate Automated, One-Touch Failover Implementations for all AWS components using Route53, Lambda, and Enterprise Integrations.",
+        "Heavily involved in collaboration on Confluence and team Agile processes, working with JIRA for sprint planning, ticket creation, and team coordination while providing leadership in onboarding and training new hires.",
+        "Onboarding and integrating User to Service and Service to Service relationships behind Apigee using OAuth2, JWT, and company wide adherence to Enterprise SSL/TLS Standards"
+      ],
+      "company": "Hexaware Technologies",
+      "position": "Software Engineer",
+      "location": "Sandy Springs, Georgia (remote)",
+      "startDate": "June 2022",
+      "endDate": "Current"
+    },
+    {
+      "highlights": [
+        "Instructed students on Java full-stack development, covering core Java OOP principles, Spring Framework, and integrating front-end UI with backend services for a seamless application architecture.",
+        "Led hands-on workshops on front-end development using Angular, guiding through module creation, event binding, and routing.",
+        "Taught best practices in version control using Git and Bitbucket for managing repositories and collaborating effectively."
+      ],
+      "company": "Tech Talent & Strategy",
+      "position": "Java Full Stack Teacher Assistant",
+      "location": "Atlanta, GA (remote)",
+      "startDate": "July 2023",
+      "endDate": "Sept 2023"
+    },
+    {
+      "highlights": [
+        "Developed and maintained full-stack applications using Java, Spring Boot, Hibernate, Angular, and React, integrating with MySQL databases and connecting dynamic front-end components to REST APIs.",
+        "Contributed to remote full-stack Java-based games utilizing Git, GitHub, and GitKraken for version control and team collaboration."
+      ],
+      "company": "GenSpark",
+      "position": "Java Full Stack Developer",
+      "startDate": "Jan 2022",
+      "endDate": "June 2022",
+      "location": "Alpharetta, GA (remote)"
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Java",
+        "Python",
+        "JavaScript/TypeScript",
+        "Bootstrap",
+        "HTML/CSS",
+        "Spring Boot",
+        "React.js",
+        "Angular"
+      ],
+      "name": "Dev Skills"
+    },
+    {
+      "keywords": [
+        "Jenkins",
+        "Docker",
+        "UCD",
+        "Nexus",
+        "Nginx",
+        "Event-driven Architecture",
+        "Microservices Architecture"
+      ],
+      "name": "DevOps/CICD"
+    },
+    {
+      "keywords": [
+        "CloudWatch",
+        "Postman",
+        "Dynatrace",
+        "Selenium",
+        "SauceLabs",
+        "JMeter",
+        "TestNG",
+        "JUnit"
+      ],
+      "name": "Monitor/Test"
+    },
+    {
+      "keywords": [
+        "AWS Infrastructure Solutions",
+        "(ECS",
+        "S3",
+        "RDS",
+        "DynamoDB",
+        "Lambda",
+        "CloudFormation",
+        "Route53",
+        "etc...)"
+      ],
+      "name": "Cloud Dev"
+    },
+    {
+      "keywords": [
+        "TLS/SSL",
+        "SAST, DAST, & SCA Scans",
+        "OWASP",
+        "OAuth2",
+        "JWT",
+        "WebSockets",
+        "SOAP"
+      ],
+      "name": "Security"
+    }
+  ],
+  "projects": [
+    {
+      "name": "",
+      "description": "",
+      "url": "",
+      "keywords": [
+        ""
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "AWS Certified Developer - Associate",
+      "date": "Aug 3, 2022",
+      "awarder": "AWS",
+      "summary": "Validation #: FDYEBMFKYB111E3Q"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "skills",
+    "awards",
+    "work",
+    "education",
+    "projects"
+  ]
+}
