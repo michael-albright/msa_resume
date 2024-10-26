@@ -162,12 +162,13 @@
     {
       "keywords": [
         "Microservices",
-        "RESTful Web Services",
+        "RESTful APIs",
         "OOP",
         "Responsive Web Design",
         "ORM",
         "Event Driven",
-        "Serverless"
+        "Serverless",
+        "SPA"
       ],
       "name": "Architectures"
     }
