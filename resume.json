@@ -112,7 +112,8 @@
         "Confluence",
         "Agile",
         "JIRA",
-        "Terraform"
+        "Terraform",
+        "Dynatrace"
       ],
       "name": "DevOps/CICD"
     },
@@ -126,7 +127,8 @@
         "TestNG",
         "JUnit",
         "Swagger",
-        "SonarQube"
+        "SonarQube",
+        "Splunk"
       ],
       "name": "Monitor/Test"
     },
@@ -160,12 +162,13 @@
     {
       "keywords": [
         "Microservices",
-        "RESTful Web Services",
+        "RESTful APIs",
         "OOP",
         "Responsive Web Design",
         "ORM",
         "Event Driven",
-        "Serverless"
+        "Serverless",
+        "SPA"
       ],
       "name": "Architectures"
     }
